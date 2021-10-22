@@ -1,0 +1,18 @@
+
+.copyright{
+    display: flex;
+    justify-content: space-between;
+    background-color: #be1e2d;
+    width: 100%;
+   text-align: center;
+  }
+  
+  .copyright p{
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    padding: 0 10px;
+    text-align: center;
+    margin-top: 10px;
+  }
+  

@@ -1,0 +1,18 @@
+.myCard{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) !important;
+    height: 130px !important;
+}
+.myCardBody{
+    text-align: center;
+}
+.myCardBody:hover{
+    background-color: lightblue !important;
+    
+}
+.icon{
+    font-size: 40px;
+   color: #be1e2d;
+}
+.myCardTitle{
+    text-align: center !important;
+}
